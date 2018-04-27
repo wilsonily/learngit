@@ -1,2 +1,6 @@
 hello, this is a test git file. 
                           thanks...
+
+add new line
+
+append something...
